@@ -61,4 +61,6 @@ No caso eu estou usando o plano Business, mas vocês escolhem o que melhor se ad
 
 ### Configurando
 
-Agora iremos configurar a nossa hospedagem
+Agora iremos configurar a nossa hospedagem e para isso basta clicar na página inicial em `configurar`.
+
+Abrirá um passo a passo em que você adicionará suas informações de contato, domínio escolhido e 

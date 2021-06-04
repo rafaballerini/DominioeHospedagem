@@ -63,4 +63,18 @@ No caso eu estou usando o plano Business, mas vocês escolhem o que melhor se ad
 
 Agora iremos configurar a nossa hospedagem e para isso basta clicar na página inicial em `configurar`.
 
-Abrirá um passo a passo em que você adicionará suas informações de contato, domínio escolhido e 
+Abrirá um passo a passo em que você adicionará suas informações de contato, domínio escolhido e o seu site estará pronto!
+
+Ao abrir, a plataforma pediu para que eu apagasse o arquivo `default.php` por FPS ou pelo gerenciador de arquivos.
+
+Então, no gerenciador de arquivos, apaguei o arquivo que deveria e quando recarreguei meu site, percebi que ele estava direcionando para a minha pasta, e não os arquivos dentro dela.
+
+Assim, fui novamente no gerenciador de arquivos da plataforma e movi todos os arquivos dentro da pasta `Rafaella Ballerini` para fora dela.
+
+**E PRONTO! Meu [site](https://rafaballerini.tech)funcionando perfeitamente!**
+
+Para finalizar, apaguei a pasta `Rafaella Ballerini` no gerenciador de arquivos, que já não tinha mais nada e também fiz a instalação do certificado SSL, presente no painel de controle.
+
+**Não esqueçam de deixar o like e se inscrever no [canal do Youtube ❤](https://youtube.com/RafaellaBallerini)**
+
+Até semana que vem, um beijo!

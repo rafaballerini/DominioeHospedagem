@@ -73,7 +73,7 @@ Então, no gerenciador de arquivos, apaguei o arquivo que deveria e quando recar
 
 Assim, fui novamente no gerenciador de arquivos da plataforma e movi todos os arquivos dentro da pasta `Rafaella Ballerini` para fora dela.
 
-**E PRONTO! Meu [site](https://rafaballerini.tech)funcionando perfeitamente!**
+**E PRONTO! Meu [site](https://rafaballerini.tech) funcionando perfeitamente!**
 
 Para finalizar, apaguei a pasta `Rafaella Ballerini` no gerenciador de arquivos, que já não tinha mais nada e também fiz a instalação do certificado SSL, presente no painel de controle.
 

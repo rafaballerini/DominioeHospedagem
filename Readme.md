@@ -18,6 +18,8 @@ Vou então explicar pra vocês alguns termos relacionados a isso que eu conheço
 Um exemplo disso é quando usamos a extensão do VSCode "Live Server" ou o "Wamp Server" (tenho certeza que se você já mexeu com PHP na vida, você conhece essa ferramenta). Para utilizá-los normalmente colocamos na URL `localhost:porta` ou o `ipinterno:porta`- IPV4. Essa porta é um número que será gerado automaticamente por essas ferramentas que comentei.
 Por sinal, pra você descobrir qual seria esse IPV4, você pode abrir o terminal e digitar `ipconfig` (Windows) ou `ifconfig` (outros sistemas), e ele irá listar para você.
 
+<img src="https://media.discordapp.net/attachments/831974152667398214/850258701293322280/unknown.png">
+
 E como falei, se você quiser abrir esse site com outro dispositivo que esteja conectado à sua internet, basta você colocar no navegador `ipinterno:porta`.
 
 Eu vou mostrar isso pra vocês daqui a pouco!

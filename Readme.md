@@ -1,6 +1,6 @@
 # Roteiro - Domínio e hospedagem de sites!
 
-Nesse vídeo falarei sobre o os principais conceitos relacionados a domínio e hospedagem de sites e tudo o que você deve saber antes de comprar algum plano de hospedagem.
+[Nesse vídeo](https://www.youtube.com/watch?v=7ZC3_QwKo5Q) falarei sobre o os principais conceitos relacionados a domínio e hospedagem de sites e tudo o que você deve saber antes de comprar algum plano de hospedagem.
 
 ## Abertura do vídeo
 
